@@ -1,0 +1,11 @@
+{
+    "name": "code-in-the-dark",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:debakatas/code-in-the-dark.git",
+    "author": "Nicolás M. Pardo <nicolasm@nikodermus.media>",
+    "license": "MIT",
+    "scripts": {
+        "start": "parcel -p 3000 --no-cache serve index.html "
+    }
+}
