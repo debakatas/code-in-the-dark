@@ -1,0 +1,21 @@
+{
+    "css.completion.completePropertyWithSemicolon": false,
+    "css.completion.triggerPropertyValueCompletion": false,
+    "css.validate": false,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.hover.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.parameterHints.enabled": false,
+    "editor.quickSuggestions": false,
+    "editor.quickSuggestionsDelay": 10000000,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.wordBasedSuggestions": false,
+    "eslint.enable": false,
+    "javascript.validate.enable": false,
+    "problems.decorations.enabled": false,
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.visible": false,
+    "html.autoClosingTags": false
+}
