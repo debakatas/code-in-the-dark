@@ -23,6 +23,7 @@
 
     ```
     Desarrollador: Recarga con la extensiones deshabilitadas
+    Developer: Reload with Extensions Disabled
     ```
 
 -   Abre tu explorador (Firefox preferido), ponlo a media pantalla con VS Code, abre `localhost:3000` y ya puedes comenzar a editar `index.html` y `style,css` para recrear el reto.
