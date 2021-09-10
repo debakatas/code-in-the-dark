@@ -17,5 +17,13 @@
     "problems.decorations.enabled": false,
     "workbench.activityBar.visible": false,
     "workbench.statusBar.visible": false,
-    "html.autoClosingTags": false
+    "html.autoClosingTags": false,
+    "emmet.showExpandedAbbreviation": "never",
+    "[html]": {
+      "editor.acceptSuggestionOnEnter": "off"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.snippetSuggestions": "bottom",
+    "html.format.enable": false,
+    "editor.trimAutoWhitespace": false,
 }
